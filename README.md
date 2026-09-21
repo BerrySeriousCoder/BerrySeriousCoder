@@ -6,7 +6,7 @@ My main toolkit includes JavaScript, React, Node.js, and modern web stacks — b
 I enjoy writing clean code, structuring maintainable systems, and working with people who care about thoughtful design and reliable software.  
 Currently in my final year of engineering, I’m open to full-time opportunities where I can grow, learn from experienced teams, and contribute to impactful products.
 
-You can see my work and approach on my [portfolio site](https://www.harshvsingh.site).
+You can see my work and approach on my [portfolio site](https://www.harsh100xdev.site/).
 
 If you’d like to collaborate or discuss an idea, feel free to connect — my inbox is always open.
 
